@@ -1,0 +1,3 @@
+kaliLinux : root pwd: rrr
+metasploit : msfadmin pwd: msfadmin
+ubuntu : pwd: nouna
